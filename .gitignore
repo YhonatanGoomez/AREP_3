@@ -1,0 +1,12 @@
+# Ignorar archivos de respaldo creados por algunos editores de texto
+*~
+
+# Ignorar archivos compilados
+*.class
+*.jar
+
+# Ignorar archivos de configuración local
+.env
+
+# Ignorar directorios y archivos generados automáticamente
+node_modules/
